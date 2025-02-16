@@ -1,5 +1,5 @@
 public class Funcionario {
 
-    //Metodo que foi sobrescrito
+    //Metodo base que foi sobrescrito
     public void cadastro(){}
 }
