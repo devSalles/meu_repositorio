@@ -1,0 +1,14 @@
+C:\Users\Cruz\Desktop\Prática\TesteMVC\bin\Debug\net9.0\TesteMVC.exe
+C:\Users\Cruz\Desktop\Prática\TesteMVC\bin\Debug\net9.0\TesteMVC.deps.json
+C:\Users\Cruz\Desktop\Prática\TesteMVC\bin\Debug\net9.0\TesteMVC.runtimeconfig.json
+C:\Users\Cruz\Desktop\Prática\TesteMVC\bin\Debug\net9.0\TesteMVC.dll
+C:\Users\Cruz\Desktop\Prática\TesteMVC\bin\Debug\net9.0\TesteMVC.pdb
+C:\Users\Cruz\Desktop\Prática\TesteMVC\obj\Debug\net9.0\TesteMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cruz\Desktop\Prática\TesteMVC\obj\Debug\net9.0\TesteMVC.AssemblyInfoInputs.cache
+C:\Users\Cruz\Desktop\Prática\TesteMVC\obj\Debug\net9.0\TesteMVC.AssemblyInfo.cs
+C:\Users\Cruz\Desktop\Prática\TesteMVC\obj\Debug\net9.0\TesteMVC.csproj.CoreCompileInputs.cache
+C:\Users\Cruz\Desktop\Prática\TesteMVC\obj\Debug\net9.0\TesteMVC.dll
+C:\Users\Cruz\Desktop\Prática\TesteMVC\obj\Debug\net9.0\refint\TesteMVC.dll
+C:\Users\Cruz\Desktop\Prática\TesteMVC\obj\Debug\net9.0\TesteMVC.pdb
+C:\Users\Cruz\Desktop\Prática\TesteMVC\obj\Debug\net9.0\TesteMVC.genruntimeconfig.cache
+C:\Users\Cruz\Desktop\Prática\TesteMVC\obj\Debug\net9.0\ref\TesteMVC.dll
